@@ -8,7 +8,8 @@
     "zad2": "nodemon zad2/student.js",
     "zad3": "nodemon zad3/app.js",
     "zad4": "nodemon zad4/app.js",
-    "zad5": "nodemon zad5/app.js"
+    "zad5": "nodemon zad5/app.js",
+    "zad6": "nodemon zad6/app.js"
   },
   "keywords": [],
   "author": "Pavlo Strelnykov",
